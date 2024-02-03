@@ -4,6 +4,6 @@ function celsiusToFahrenheit(temp) {
     return msg;
 }
 
-const result = celsiusToFahrenheit(40.25);
+const result = celsiusToFahrenheit(-40.25);
 
 console.log(result);
